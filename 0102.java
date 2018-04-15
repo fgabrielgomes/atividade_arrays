@@ -4,8 +4,8 @@ import java.util.Arrays;//API para manipulação de Arrays
 
 /**
  * 
- * @author Douglas A. Monteiro Alcantara Justino
- * Questões:
+ * @author FranciscoGabriel
+ *
  *1.Crie um array de inteiros com 300 posições e preencha todos com o valor 45.
  *2.Imprima todos os valores da questão anterior de 3 formas diferentes.
  *
